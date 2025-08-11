@@ -1,0 +1,1 @@
+worker: python binance_multi_pair_compound_bot.py
